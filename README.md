@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm AGODA Marina</h1>
 <h3 align="center">A passionate software engineering student</h3>
-<img align="right" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="coding">
+<img align="right" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agodamarina&label=Profile%20views&color=0e75b6&style=flat" alt="agodamarina" /> </p>
 
 - 🔭 I’m currently working on [ERP](https://github.com/agodaMarina/PPE301)
