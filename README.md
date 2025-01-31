@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [ERP](https://github.com/agodaMarina/PPE301)
 
-- 📫 How to reach me **rinouchagd@gmail.com**
+- 📫 How to reach me **macaagoda@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  
+  linkedIn(www.linkedin.com/in/marina-agoda-73024a299)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
